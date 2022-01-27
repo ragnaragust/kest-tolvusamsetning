@@ -1,10 +1,9 @@
 # Tolvusamsetning
 
-|Tables         | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|Móðurborð      |Örgjörvi                |RAM minni   |
+| ------------- |:----------------------:| ----------:|
+|skjákort       |aflgjafi                |HDD         |
+|SSD            |Optical Disc Drive      |Snúrur      |
 
 Maður byrjar á að taka fram móðurborðið, sata snúrur, örgjörvan og harða drifið. (maður þarf skrúfjárn, aðallega nr2 philips head skrúfjárn, gott er að hafa segul enda fyrir skrúfurnar.)
 Það er líka gott að hafa zip bönd og vírklippur.
